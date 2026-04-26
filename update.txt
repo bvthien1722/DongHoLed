@@ -1,2 +1,0 @@
-Clock_v1.1.bin
-http://otaclock.tbgroup.run.place/Clock/Clock_v1.1.bin
